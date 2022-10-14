@@ -1,0 +1,4 @@
+
+insert into Course
+(id,name,author)
+values(2,'Learn docker and kubernetes','Brent Quackenbush');
